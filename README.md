@@ -1,1 +1,1 @@
-# Information-Recovery-Time-Series
+# Permutation-Entropy
