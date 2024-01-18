@@ -18,7 +18,3 @@ The following figure displays the normalized PE rolling estimates series for an 
 
 
 The dataset DJIA_1901_to_2016_red.csv contains the time-series used in our study for the period January 5, 1901 to December 30, 2016.
-
-    Ordpy — A Python package for data analysis with permutation entropy and ordinal network methods.
-Using the ordpy, we obtain the exact value of the Normalized Permutation Library.
-
