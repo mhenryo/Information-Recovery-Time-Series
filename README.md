@@ -19,6 +19,6 @@ The following figure displays the normalized PE rolling estimates series for an 
 
 <ins>Replication Materials</ins>
 
-The dataset <mark>DJIA_1901_to_2016_red.csv</mark> contains the time-series used in our study for the period January 5, 1901 to December 30, 2016.
+The dataset ==DJIA_1901_to_2016_red.csv== contains the time-series used in our study for the period January 5, 1901 to December 30, 2016.
 
 The program pentropy_single_f.gss is a GAUSS program, which reproduces the normalized PE result of 0.998 reported on p. 7 of our paper, using a time delay of 1, an embedding dimension of 4, and the DJIA time series. 
