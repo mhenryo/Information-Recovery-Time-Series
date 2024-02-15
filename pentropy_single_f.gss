@@ -1,5 +1,5 @@
 @ This is a Gauss code for the Computation of a Single PE point estimate of a univariate time series and associated Relative Frequencies @
-@ This code accompanies the Aptech blog Permutation entropy I wrote at https://www.aptech.com/blog/permutation-entropy/ @
+@ This code accompanies the Aptech blog Permutation entropy that I wrote at https://www.aptech.com/blog/permutation-entropy/ @
 @ This Gauss program requires a working copy of GAUSS 18+ @
 
 @ Suggested Citation:
