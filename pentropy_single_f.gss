@@ -37,7 +37,7 @@ et  =  hsec  ;
 
 // 1901 - 2016
 row_range={1,31519};
-x = csvReadM("/Users/miguelhenry/Library/Mobile Documents/com~apple~CloudDocs/RESEARCH/PE/Data/DJIA_1901_to_2016_red.csv",row_range,2);
+x = csvReadM("DJIA_1901_to_2016_red.csv",row_range,2);
 x = packr(x);   
  
 // Continuously compounded returns
