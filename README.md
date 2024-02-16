@@ -21,4 +21,6 @@ The following figure displays the normalized PE rolling estimates series for an 
 
 The dataset DJIA_1901_to_2016_red.csv contains the time-series used in our study for the period January 5, 1901 to December 30, 2016.
 
-The program pentropy_single_f.gss is a GAUSS program, which reproduces the normalized PE result of 0.998 reported on p. 7 of our paper, using a time delay of 1, an embedding dimension of 4, and the DJIA time series. 
+The program pentropy_single_f.gss is a GAUSS program that reproduces the normalized PE result of 0.998 reported on p. 7 of our paper, using a time delay of 1, an embedding dimension of 4, and the DJIA time series. 
+
+The program pentropy_rw_f.gss is a GAUSS program that implements the rolling windows algorithm and reproduces the results reported on pp. 8 and 9 of our paper, including Figure 2, using a time delay of 1, an embedding dimension of 5, and the DJIA time series. 
